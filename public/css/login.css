@@ -1,0 +1,16 @@
+#inputBar{
+
+border-radius: 30%;
+display: flex;
+flex-direction: column;
+margin-left: 40%;
+
+
+
+}
+
+#section{
+
+   color: aqua;
+
+}
