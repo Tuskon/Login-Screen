@@ -9,7 +9,7 @@
 
 <header> 
 
-<img src="https://t3.ftcdn.net/jpg/06/02/30/12/240_F_602301246_H52FR3BCQqeti8emnT3eY7Jsnw4sjLqO.jpg">
+<img id="logo" src="https://t3.ftcdn.net/jpg/06/02/30/12/240_F_602301246_H52FR3BCQqeti8emnT3eY7Jsnw4sjLqO.jpg">
 
 </header>
 
@@ -20,10 +20,10 @@
 
 <input id ="inputBar" type="text" placeholder="User"><br><br>
 <input id ="inputBar" type="text" placeholder="Password"><br><br>
-<input type="submit" value="submit">
+<a id="send" type="submit" value="submit">1</a>
 </form>
 
-<a href="https://www.sorryapp.com/error-pages/">Esqueceu sua senha ?</a>
+<a id="forgot-password" href="https://www.sorryapp.com/error-pages/">Esqueceu sua senha ?</a>
 
 </div>
 
